@@ -46,8 +46,8 @@ Anaconda - Python 3.7
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By: R ARUNRAJ
+# Register Number: 212220230004
 # i) Convert BGR and RGB to HSV and GRAY
 
     import cv2
