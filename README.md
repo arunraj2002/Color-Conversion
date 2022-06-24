@@ -97,24 +97,24 @@ Anaconda - Python 3.7
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<img src="https://user-images.githubusercontent.com/75235747/162788699-9cd90b37-940f-422d-a249-6a7bf736f84e.png" width="600">
-<img src="https://user-images.githubusercontent.com/75235747/162788847-b1e4cddb-084d-4875-a7d2-a4ed160b097b.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/162788699-9cd90b37-940f-422d-a249-6a7bf736f84e.png" width="500">
+<img src="https://user-images.githubusercontent.com/75235747/162788847-b1e4cddb-084d-4875-a7d2-a4ed160b097b.png" width="500">
 
 ### ii) HSV to RGB and BGR
-<img src="https://user-images.githubusercontent.com/75235747/162789029-7e0a73ce-a660-4254-be53-5aae19471b87.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/162789029-7e0a73ce-a660-4254-be53-5aae19471b87.png" width="500">
 
 ### iii) RGB and BGR to YCrCb
-<img src="https://user-images.githubusercontent.com/75235747/162789231-243ca0d5-46a0-4076-8d9b-ce2ff34ee8da.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/162789231-243ca0d5-46a0-4076-8d9b-ce2ff34ee8da.png" width="500">
 
 ### iv) Split and merge RGB Image
 <br>
-<img src="https://user-images.githubusercontent.com/75235747/162789569-8c713137-bf89-44cc-b618-407084364536.png" width="600">
-<img src="https://user-images.githubusercontent.com/75235747/162789771-388195c2-c6be-49f5-b5e2-3da1462af417.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/162789569-8c713137-bf89-44cc-b618-407084364536.png" width="500">
+<img src="https://user-images.githubusercontent.com/75235747/162789771-388195c2-c6be-49f5-b5e2-3da1462af417.png" width="500">
 
 ### v) Split and merge HSV Image
-<img src="https://user-images.githubusercontent.com/75235747/162789828-ff4cec00-ea01-441e-9ec2-dbdf374ed6f8.png" width="400">
-<img src="https://user-images.githubusercontent.com/75235747/162789860-919d721c-e4cf-4622-b7d4-93f1609f3c97.png" width="600">
-<img src="https://user-images.githubusercontent.com/75235747/162789892-67c98072-0148-4928-9c60-a78af665b15d.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/162789828-ff4cec00-ea01-441e-9ec2-dbdf374ed6f8.png" width="500">
+<img src="https://user-images.githubusercontent.com/75235747/162789860-919d721c-e4cf-4622-b7d4-93f1609f3c97.png" width="500">
+<img src="https://user-images.githubusercontent.com/75235747/162789892-67c98072-0148-4928-9c60-a78af665b15d.png" width="500">
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
