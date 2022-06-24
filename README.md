@@ -39,9 +39,9 @@ Anaconda - Python 3.7
     cv2.merge((h,s,v))
 
 ## Program:
+### Developed By: R ARUNRAJ
+### Register Number: 212220230004
 ```python
-# Developed By: R ARUNRAJ
-# Register Number: 212220230004
 # i) Convert BGR and RGB to HSV and GRAY
     import cv2
     color=cv2.imread('tower.jpg')
